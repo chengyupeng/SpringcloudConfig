@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    addresses: 172.16.18.2
+    port: 5672
+    username: guest
+    password: guest
